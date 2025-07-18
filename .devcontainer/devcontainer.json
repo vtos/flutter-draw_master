@@ -1,5 +1,5 @@
 {
-    "name": "Flutter Dev Environment",
+    "name": "Draw Master App",
 
     "build": {
         "dockerfile": "Dockerfile",
