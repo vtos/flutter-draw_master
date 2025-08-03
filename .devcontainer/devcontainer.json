@@ -13,5 +13,14 @@
     },
 
     // Info: https://aka.ms/vscode-remote/containers/non-root.
-    "remoteUser": "vscode"
+    "remoteUser": "vscode",
+
+    // Enable VS Code extensions.
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "dart-code.dart-code"
+            ]
+        }
+    }
 }
